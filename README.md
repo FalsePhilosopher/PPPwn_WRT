@@ -1,5 +1,7 @@
 # PPPwn on OpenWRT
 
+This branch of this fork is here till MW accepts the PRR and should not be relied upon in the long term.
+
 A method of running PPPwn on an OpenWRT-based router.
 
 ## Supported Routers
