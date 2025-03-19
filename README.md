@@ -23,14 +23,14 @@ Download the project to your router:
 
 ```sh
 apk update
-wget https://github.com/MODDEDWARFARE/PPPwn_WRT/raw/main/install.sh
+wget https://github.com/FalsePhilosopher/PPPwn_WRT/raw/main/install.sh
 chmod +x install.sh && . ./install.sh
 ```
 
 For 23.05 and below systems
 ```sh
 opkg update
-wget https://github.com/MODDEDWARFARE/PPPwn_WRT/raw/main/install23.sh
+wget https://github.com/FalsePhilosopher/PPPwn_WRT/raw/main/install23.sh
 chmod +x install23.sh && . ./install23.sh
 ```
 
